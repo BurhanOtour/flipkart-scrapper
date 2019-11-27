@@ -4,7 +4,7 @@ A web scraping tool in Python to extract the Price, Name, and Rating of Laptops 
 
 # Prerequisite
 
-You need to have the following Python module install on you machine:
+You need to have the following Python modules installed in you system:
 
 1. <strong>`Pandas`</strong>
 2. <strong>`Selenium`</strong>
